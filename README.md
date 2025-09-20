@@ -1,0 +1,2 @@
+# Cardiovascular-Disease-Prediction-using-Hybrid-Machine-Learning-Algorithms
+The prediction of heart disease remains a critical challenge in healthcare, necessitating advanced computational methods to enhance diagnostic accuracy and patient outcomes. This study proposes a hybrid machine learning model integrating Convolutional Neural Networks (CNN) and extreme Gradient Boosting XG-Boost to improve heart disease prediction. 
